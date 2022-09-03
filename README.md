@@ -1,6 +1,7 @@
 # CV - Karina Mastyaeva
 
 Manual/Automation QA Engineer
+
 karina.mastyaeva@gmail.com / [LinkedIn](https://www.linkedin.com/in/karina-mastyaeva-6199b0213/)
 
 * * *
