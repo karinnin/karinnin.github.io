@@ -1,1 +1,2 @@
-<h1 align="center">Hi there</h1>
+layout: page
+title: "CV Karina Mastyaeva"
