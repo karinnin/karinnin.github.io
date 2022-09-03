@@ -1,1 +1,0 @@
-# karinnin-cv
