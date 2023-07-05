@@ -16,6 +16,7 @@ I like to provide quality, understand the application and make it better. I enjo
 #### API Testing
 * Experience in Python automation testing (requests, fixtures, parametrization, sql alchemy)
 * Using Swagger, DevTools, Postman, Insomnia
+* Skilled in Java automation testing (rest-assured, maven, junit, testNG, allure, jdbc)
 * Writing basic SQL requests (mostly postresql, DBeaver)
 
 #### UI Testing
@@ -46,9 +47,9 @@ at The Neuron _(Nov 2022 - Present)_
 at 7bits _(Sept 2020 - Nov 2022)_
 
 * Manual UI Testing
-* Manul and Automation API Testing
+* Manual and Automation API Testing
 * Manual Mobile testing (Android, iOS)
-* Requiremens Analysis
+* Requirements Analysis
 * Teaching others
 
 ## Languages
