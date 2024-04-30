@@ -18,12 +18,12 @@ I enjoy quality assurance, analyzing how an application works, and making it bet
 * I usually use Postman, Swagger, and DevTools for manual API testing. Have experience with Insomnia
 * Skilled in Java automation testing (using rest-assured, maven, JUnit, TestNG, allure, and JDBC). Created an autotests infrastructure for testing in multiple environments with different user roles, and added scheduled test execution using GitHub Actions
 * Educational experience in Python automation testing (requests, fixtures, parametrization, SQL alchemy)
-* Writing basic SQL requests (multiple JOIN, ORDER, GROUP, subqueries, math functions). I have experience with PostgreSQL, DBeaver, and AWS Athena). I'm using SQL to get data and investigating the root causes of issues
+* Writing basic SQL requests (multiple JOIN, ORDER, GROUP, subqueries, math functions). I have experience with PostgreSQL, DBeaver, and AWS Athena). I'm using SQL to get data and investigate the root causes of issues
 
 #### UI Testing
 * Knowledge of UX frameworks, usability heuristics
 * Communication with designers, suggestions for improvements
-* Tested web (Angular, React) and mobile (React Native) projects. I created default Angular and React projects on my own to understand the logic on frontend side
+* Tested web (Angular, React) and mobile (React Native) projects. I created default Angular and React projects on my own to understand the logic on the frontend side
 * Java Automation testing (Using Selenium WebDriver, maven, JUnit, TestNG, and allure)
 * Manual Mobile testing (Android and iOS, Flipper, Android Virtual Devices), basic understanding of Appium. I am more skilled and prefer testing Web projects
 
@@ -61,4 +61,4 @@ at 7bits _(Sept 2020 - Nov 2022)_
 ## Education
 * 9-month Course in Analytics and Testing (Sept 2019 - May 2020)
 * 2-month Internship in Analytics and Testing (Jul 2020 - Aug 2020)
-* Bachelor's degree in Economics (finance, banks, stocks and bonds market) (Sept 2017 - Jul 2021)
+* Bachelor's degree in Economics (finance, banks, stocks, and bonds market) (Sept 2017 - Jul 2021)
