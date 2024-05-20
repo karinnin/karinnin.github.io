@@ -1,6 +1,6 @@
 # CV - Karina Mastiaeva
 
-Manual and Automation Web QA Engineer / Email: karina.mastyaeva@gmail.com / LinkedIn: [Profile](https://www.linkedin.com/in/karina-mastiaeva-6199b0213/)
+Manual and Automation Web QA Engineer / Email: karina.mastyaeva@gmail.com / LinkedIn: [Profile](https://www.linkedin.com/in/karina-mastiaeva/)
 
 I enjoy quality assurance, analyzing how an application works, and making it better. Thinking about potential bugs, their root causes, and improvements is a part of my daily life.
 
