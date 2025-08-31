@@ -7,7 +7,7 @@ I enjoy quality assurance, analyzing how an application works, and making it bet
 * * *
 
 ## Summary
-* 3.5+ years of experience in QA
+* 5+ years of experience in QA
 * Knowledge of methods and technology of software testing, experience in using them
 * API and UI testing, web and mobile testing experience
 * Comprehensive analysis of the root causes of bugs, attentive to details
